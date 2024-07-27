@@ -7,7 +7,7 @@ const content = [
     {
       title: "Automative Smart Adaptive Parking System",
       description:
-        "Work together in real time with your team, clients, and stakeholders. Collaborate on documents, share ideas, and make decisions quickly. With our platform, you can streamline your workflow and increase productivity.",
+        "jayatu janani.",
       content: (
         <div className="h-full w-full  flex items-center justify-center text-white">
           <Image
